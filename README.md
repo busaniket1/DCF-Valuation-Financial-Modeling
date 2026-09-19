@@ -15,7 +15,7 @@ NPV & IRR cross-check
 Model validation checks
 Key Finding
 
-Under the Base Case assumptions, the model estimates a fair value of approximately ₹1,762 per share, compared with a market price of approximately ₹4,000, indicating a significant difference between the model-derived intrinsic value and market valuation.
+Under the Base Case assumptions, the model estimates a fair value of approximately ₹1,777 per share, compared with a market price of approximately ₹4,000, indicating a significant difference between the model-derived intrinsic value and market valuation.
 
 Skills Demonstrated
 
